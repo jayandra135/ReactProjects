@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "question": "What is React?",
+    "answer": "React is a front-end and open-source JavaScript library which is useful in developing user interfaces specifically for applications with a single page"
+  },
+  {
+    "id": "2",
+    "question": "What are the advantages of using React?",
+    "answer": "React provides you with the freedom to choose the tools, libraries, and architecture for developing an application based on your requirement"
+  },
+  {
+    "id": "3",
+    "question": "What are the limitations of React?",
+    "answer": "Coding might become complex as it will make use of inline templating and JSX"
+  },
+  {
+    "id": "4",
+    "question": "What is useState() in React?",
+    "answer": "The useState() is a built-in React Hook that allows you for having state variables in functional components. It should be used when the DOM has something that is dynamically manipulating/controlling."
+  },
+  {
+    "id": "5",
+    "question": "What is JSX?",
+    "answer": "JSX stands for JavaScript XML. It allows us to write HTML inside JavaScript and place them in the DOM without using functions like appendChild( ) or createElement( )."
+  },
+  {
+    "id": "6",
+    "question": "What are props in React?",
+    "answer": "The props in React are the inputs to a component of React. They can be single-valued or objects having a set of values that will be passed to components of React during creation by using a naming convention that almost looks similar to HTML-tag attributes. "
+  }
+]
